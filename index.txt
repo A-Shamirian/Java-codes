@@ -1,0 +1,6 @@
+$ git --version
+use "git rm --cached <file>..." to unstage
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+Annie is a perfect girl
